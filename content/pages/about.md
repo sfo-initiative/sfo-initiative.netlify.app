@@ -1,12 +1,11 @@
 ---
-title: About Mee
+title: About Me
 template: about-template
-profile_image: /media/profile-image.jpg
+profile_image: /media/profile_sfo.jpg
 ---
 
-# Hi, I'm John Doe
+# Hi, welcome again!
 
-This website is a live example of a Gatsby Starter — it's not a real blog.
-People using this starter may want to add some information to this page about them or their business.
+This website allows you to find out many opportunities or offers from all around the world in different fields. Regarding your interest, kindly visit the site for more details on what you're looking for.
 
 
