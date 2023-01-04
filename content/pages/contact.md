@@ -1,5 +1,5 @@
 ---
-title: 'Contact Me'
+title: 'Contact Us'
 template: 'contact-template'
 ---
 
