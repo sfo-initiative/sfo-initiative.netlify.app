@@ -11,5 +11,5 @@ Our research: Plants and their seeds are vital for human nutrition. In our IMPRS
 
 We seek to understand how plants perceive and integrate the multitude of endogenous and exogenous signals they receive to ensure their health, survival, biomass acquisition and seed formation. We work with various plant and algal species, and follow an interdisciplinary approach, combining molecular biology, genetics, genomics, epigenomics, metabolomics, biochemistry, biophysics and microscopy with bioinformatics and modelling. Detailed information on the research in the IMPRS groups can be found on the website of the IMPRS MolPlant.
 
-## For more details ![how to apply](https://www.mpg.de/19632410/phd-positions-imprs-for-molecular-plant-science).
+### For more details, [how to apply](https://www.mpg.de/19632410/phd-positions-imprs-for-molecular-plant-science)!
 
