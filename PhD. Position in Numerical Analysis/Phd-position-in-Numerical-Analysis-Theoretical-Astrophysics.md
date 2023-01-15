@@ -1,7 +1,8 @@
 ---
-title: PhD. Position in Numerical Analysis / Theoretical Astrophysics
+title: PhD. Position in Numerical Analysis / Theoretical Astrophysics | Deadline 28 February 2023
 date: 2023-01-15
 tags: [Mathematics, Astrophysics]
+description : PhD. Position in Numerical Analysis / Theoretical Astrophysics
 ---
 
 
