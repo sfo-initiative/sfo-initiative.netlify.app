@@ -1,5 +1,5 @@
 ---
-title: Master’s in Mathematical Sciences Degree Application | deadline March 31, 2023
+title: AIMS Master's in Mathematical Sciences | deadline March 31, 2023
 date: 2023-01-15
 tags: [Master]
 description: The AIMS Structured Master’s Program call 2023 is now open.
