@@ -19,7 +19,7 @@ During the final phase of the AIMS course students do a research project and wri
 
 ## Application Instructions:
 
-Visit the [link](https://nexteinstein.org/application/aims-masters-degree/) to [apply](https://applications.nexteinstein.org/appl-prev.php?appltype=MasterIntake) for the AIMS Master’s Program.
+#### Visit the [link](https://nexteinstein.org/application/aims-masters-degree/) to [apply](https://applications.nexteinstein.org/appl-prev.php?appltype=MasterIntake) for the AIMS Master’s Program.
 Application Documents
 1) Applicants must hold or expect to obtain by the date of commencement of AIMS training a 4-year university degree in mathematics or any other science/engineering discipline with a significant mathematics component.
 2) Candidate records must demonstrate strong mathematics, leadership and community service skills.
