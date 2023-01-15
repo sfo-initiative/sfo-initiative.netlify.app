@@ -1,8 +1,10 @@
 ---
 title: 2 PhD Positions in Numerical Analysis|Dealine January 31, 2023
 date: 2023-01-15
-tags: [Mathematics,Numerical Analysis]
-description:2 PhD Positions in Numerical Analysis.
+tags:
+- Numerical Analysis
+- Applied Mahematics
+description: 2 PhD Positions in Numerical Analysis.
 ---
 
 University of Tübingen, Technical University of Munich
