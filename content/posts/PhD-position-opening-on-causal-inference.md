@@ -20,5 +20,5 @@ The methodological work could be complemented by the development of a dedicated 
 Applicants should have strong knowledge in Statistics or Machine Learning and experience in R is
 required.
 
-## For more details, click here! [pdf](../content/causal_inference.pdf)
+## For more details, click here! [pdf](../causal_inference.pdf)
 
