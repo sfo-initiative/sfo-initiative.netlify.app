@@ -14,6 +14,5 @@ Key informations:
 - important note for international students: you must check and follow the so-called "Etudes en France" procedure applicable for your country, especially deadlines (see the link towards the "Etudes en France" application form below). The Lebesgue application is not the "Etudes en France" application. You must do both.
 Thank you in advance for forwarding this announcement to students who could be interested in joining our programs and to colleagues which may know students interested in coming to France for their master studies.
 For more information, please write to chl@lebesgue.fr.
-Application form 
-"Etudes en France" application form
-Description of the program
+Application form For apply, click here! [Link] (/src/https://www.lebesgue.fr/en/content/master_application)
+
