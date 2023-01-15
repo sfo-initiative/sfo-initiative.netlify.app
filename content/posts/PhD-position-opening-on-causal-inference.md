@@ -8,7 +8,7 @@ tags:
 description: Causal inference
 ---
 
-PhD position opening (”thèse CIFRE”) to work on causal inference, in the context of time to
+PhD position opening to work on causal inference, in the context of time to
 event/survival analysis under the direction of Dr Julie Josse, INRIA, and jointly with Dr Bernard
 Sebastien from the ‘Data, Data Science’ department of Sanofi R&D, France. The project will include
 applications of causal inference to observational studies. The following aspects will be studied:
