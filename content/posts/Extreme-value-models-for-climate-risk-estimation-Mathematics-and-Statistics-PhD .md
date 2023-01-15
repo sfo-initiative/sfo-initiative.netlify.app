@@ -1,10 +1,10 @@
 ---
-title: Extreme value models for climate risk estimation, Mathematics and Statistics – PhD (Funded)| The closing date for applications is midnight on 14th February 2023.
+title: Phd Extreme value models for climate risk estimation, Mathematics and Statistics | The closing date for applications is midnight on 14th February 2023.
 date: 2023-01-15
 tags:
   - Physics
   - Statistic
-description: Extreme value models for climate risk estimation, Mathematics and Statistics – PhD (Funded) Ref: 4670
+description: Extreme value models for climate risk estimation, Mathematics and Statistics PhD
 ---
 Location:
 
