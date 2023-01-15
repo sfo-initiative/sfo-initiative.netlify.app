@@ -20,5 +20,5 @@ The methodological work could be complemented by the development of a dedicated 
 Applicants should have strong knowledge in Statistics or Machine Learning and experience in R is
 required.
 
-## For more details, click here! [pdf](../../files/aims_master_thesis_2022.pdf)
+## For more details, click here! [pdf](../../src/causal_inference.pdf)
 
