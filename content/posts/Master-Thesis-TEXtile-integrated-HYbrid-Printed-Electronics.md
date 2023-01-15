@@ -1,5 +1,5 @@
 ---
-title:Master Thesis TEXtile integrated HYbrid Printed Electronics 
+title: Master Thesis TEXtile integrated HYbrid Printed Electronics 
 date: 2023-01-15
 tags: [Physics]
 Description: Master Thesis - TEXtile integrated HYbrid Printed Electronics
