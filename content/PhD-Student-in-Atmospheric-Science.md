@@ -3,6 +3,7 @@ title: PhD Student in Atmospheric Science|February 13 2023
 date: 2023-01-15
 tags:
 - Atmospheric physics
+- Physics
 description: 
 Subject description
 Atmospheric science deals with research on the atmosphere of Earth and other planets by modelling along with development and use of instruments for remote sensing and in situ observations. Special focus is on the atmosphere's dynamical, chemical, and physical processes, as well as better weather and climate predictions.
