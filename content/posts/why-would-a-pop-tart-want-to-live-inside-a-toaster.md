@@ -23,7 +23,7 @@ Visit the [link](https://nexteinstein.org/application/aims-masters-degree/) to [
 Application Documents
 1) Applicants must hold or expect to obtain by the date of commencement of AIMS training a 4-year university degree in mathematics or any other science/engineering discipline with a significant mathematics component.
 2) Candidate records must demonstrate strong mathematics, leadership and community service skills.
-    Women are strongly encouraged to apply. Open to all African Countries
+3) Women are strongly encouraged to apply. Open to all African Countries
 
 #### Application deadline: 31 March 2023
 
