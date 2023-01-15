@@ -2,7 +2,7 @@
 title: PhD en Modélisation des systèmes dynamiques non-linéaires par méthodes d'ensemble dans des espaces à noyaux reproduisants via l'opérateur de Koopman.
 date: 2023-01-15
 tags: [Mathematics, Statistic, Oceanography]
-description: Le candidat devra à la fois manipuler des simulations numériques de taille modérées à grandes (2D et 3D).
+description: Le candidat devra à la fois manipuler des simulations numériques de taille modérées à grandes 2D et 3D.
 ---
 
 ## Contexte et atouts du poste
