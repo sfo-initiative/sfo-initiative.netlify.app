@@ -5,7 +5,6 @@ tags:
   - Physicis
   - climate science
   - Statistic
-social_image: /media/rocket.jpg
 description: Extreme value models for climate risk estimation, Mathematics and Statistics – PhD (Funded) Ref: 4670
 ---
 
