@@ -1,4 +1,5 @@
 ---
+
 title: Erasmus Mundus Joint Master Degree (EMJMD) InterMaths InterdisciplinaryMathematics | deadline 01 March 2023
 date: 2023-01-15
 tags: [Ingineer, Applieds Mathematics]
