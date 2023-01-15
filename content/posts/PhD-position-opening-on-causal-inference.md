@@ -10,7 +10,7 @@ description: Causal inference
 
 PhD position opening to work on causal inference, in the context of time to
 event/survival analysis under the direction of Dr Julie Josse, INRIA, and jointly with Dr Bernard
-Sebastien from the ‘Data, Data Science’ department of Sanofi R&D, France. The project will include
+Sebastien from the Data Science department of Sanofi R&D, France. The project will include
 applications of causal inference to observational studies. The following aspects will be studied:
 - influence of missing data and censoring
 - identification of heterogeneous treatment effects
