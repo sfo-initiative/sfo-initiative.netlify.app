@@ -70,3 +70,5 @@ We will screen your application as soon as possible and the vacancy will remain 
 We do not respond to applications that are sent to us in a different way.
 
 Please keep in mind you can upload only 5 documents up to 2 MB each. If necessary, please combine files.
+
+For apply, click here! [Link](/src/https://jobs.tue.nl/en/vacancy/phd-on-ai-ml-for-6g-communications-and-networking-974210.html)
