@@ -1,5 +1,5 @@
 ---
-title: PhD on AI/ML for 6G communications and Networking
+title: PhD on AI/ML for 6G communications and Networking | Deadline  05/02/2023 
 date: 2023-01-15
 tags: [Electrical Engineering,Machine Learning]
 description: PhD on AI/ML for 6G communications and Networking.
