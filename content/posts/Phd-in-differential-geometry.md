@@ -20,5 +20,5 @@ The names and e-mail addresses of two referees.
 Copies of degrees / university transcripts or a list of all master courses taken (including grades, when available).
 There is no deadline, however it is recommended to apply before 31.05.2023. Applications will be considered on a rolling basis.
 
-Further information available via the following click here! [Link] (/src/ geometry.ulb.ac.be, haydys.net, home.mathematik.uni-freiburg.de/goette)
+Further information available via the following click here! [Link] (/src/geometry.ulb.ac.be,haydys.net,home.mathematik.uni-freiburg.de/goette)
  If you have any questions about the position, please contact Andriy Haydys.
