@@ -6,8 +6,6 @@ tags: [Ingineer, Applieds Mathematics]
 description:  Erasmus Mundus Joint Master Degree (EMJMD) InterMaths ·Interdisciplinary Mathematics
 ---
 
-Fore more information about click here [link](https://www.intermaths.eu/erasmus-mundus)
+Fore more information about click here [link](\src\https://www.intermaths.eu/erasmus-mundus)
 
-
-
-For more information about different fields and subjects [link](https://www.intermaths.eu/erasmus-mundus/apply#emjmd-scholarships)
+For more information about different fields and subjects [link](\src\https://www.intermaths.eu/erasmus-mundus/apply#emjmd-scholarships)
