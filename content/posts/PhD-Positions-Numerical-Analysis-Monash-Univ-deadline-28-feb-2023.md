@@ -1,5 +1,5 @@
 ---
-title: PhD Positions, Numerical Analysis, Monash Univ
+title: PhD Positions, Numerical Analysis, Monash Univ/deadline 28 February 2023
 date: 2023-01-15
 tags:
   - Mathematics
