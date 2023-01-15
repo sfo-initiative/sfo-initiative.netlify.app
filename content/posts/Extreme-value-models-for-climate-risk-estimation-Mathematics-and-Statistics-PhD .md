@@ -3,7 +3,6 @@ title: Extreme value models for climate risk estimation, Mathematics and Statist
 date: 2023-01-15
 tags:
   - Physics
-  - climate science
   - Statistic
 description: Extreme value models for climate risk estimation, Mathematics and Statistics – PhD (Funded) Ref: 4670
 ---
