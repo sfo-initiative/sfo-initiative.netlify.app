@@ -33,7 +33,6 @@ The position is intended to result in a doctoral degree. The main task of doctor
 
 Application
 Applications will be accepted via our recruitment system by February 7, 2023. Log in and apply via the button at the bottom of the page. The application must include the following documents written in English or Swedish:
-
 -A cover letter briefly describing your qualifications and research interests, an explanation of why you are applying for the position and why you feel your qualifications and experience are relevant (not more than 3 pages).
 -Curriculum vitae.
 -Authenticated copies of degree certificates, diplomas or equivalent, including documentation of completed academic courses, received grades, and other certificates.
